@@ -1,0 +1,1 @@
+print("that she wrote.. im gay")
